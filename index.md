@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ICT4D Research at Jomo Kenyatta University of Agriculture and Technology.
 
 You can use the [editor on GitHub](https://github.com/jkuat-citr/ict-four-dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
