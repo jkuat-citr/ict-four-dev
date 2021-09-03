@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/jkuat-citr/ict-four-dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-[Publication]https://jkuat-citr.github.io/ict-four-dev/publications
+[Publication](https://jkuat-citr.github.io/ict-four-dev/publications)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
